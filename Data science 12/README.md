@@ -49,9 +49,11 @@ Phase 4: Uplift CATE Modeling (T-Learner)
 
 Out of 10,000 portfolio accounts, CATE Uplift Modeling categorized the customer base into four actionable segments:
 
-1. **Sure Things (4,784 accounts):** Customers who stay regardless of getting an offer. *Withheld $50 offer $ightarrow$ Saved $239,200.*
+1. **Sure Things (4,784 accounts):** Customers who stay regardless of getting an offer. *Withheld $50 offer $
+ightarrow$ Saved $239,200.*
 2. **Do Not Disturb / Low Impact (4,210 accounts):** Low baseline risk or negligible balance return.
-3. **Lost Causes (892 accounts):** High churn probability unaffected by $50 offer. *Withheld offer $ightarrow$ Saved $44,600.*
+3. **Lost Causes (892 accounts):** High churn probability unaffected by $50 offer. *Withheld offer $
+ightarrow$ Saved $44,600.*
 4. **Persuadables (114 accounts):** **High-value priority segment!** Incentive directly flips their retention decision.
 
 ---
@@ -97,5 +99,5 @@ jupyter notebook "Algorithmic Customer Churn & Lifetime Value (LTV) Optimization
 
 ## 👤 Author
 **Obaloluwa Temidayo Koyi-Kayode**
-* Data Analyst | Mathematics Graduate
+* Data Scientist | Mathematics Graduate
 * Specialized in Quantitative Risk Modeling, FinTech Analytics, and Decision Optimization Systems.
